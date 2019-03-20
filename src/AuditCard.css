@@ -1,0 +1,21 @@
+.audit-card {
+  width: 345px;
+  display: inline-block;
+  margin: 20px;
+}
+
+.audit-card .audit-card-media {
+  height: 300px;
+  width: 100%;
+  background-color: black;
+  background-size: 100% auto;
+}
+
+.audit-card,
+.audit-card .token-ticker {
+  text-align: left;
+}
+
+.audit-container {
+  padding-top: 20px;
+}

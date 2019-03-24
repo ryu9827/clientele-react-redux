@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://ryu9827.github.io/clientele-react-redux/",
-  "repository": "https://github.com/BlockchainLabsNZ/clientele-react-redux",
+  "repository": "https://github.com/ryu9827/clientele-react-redux",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",

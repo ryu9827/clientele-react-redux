@@ -2,17 +2,17 @@
   "name": "audit-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://blockchainlabsnz.github.io/blnz-audit-list/",
-  "repository": "https://github.com/BlockchainLabsNZ/blnz-audit-list",
+  "homepage": "https://ryu9827.github.io/clientele-react-redux/",
+  "repository": "https://github.com/BlockchainLabsNZ/clientele-react-redux",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
     "moment": "^2.22.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-redux": "^6.0.1",
     "react-scripts": "2.0.0",
-    "react-switch-lang": "^1.0.2",
-    "react-tooltip": "^3.6.1"
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
